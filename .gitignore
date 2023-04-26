@@ -1,1 +1,5 @@
+# Ignoring Data File
 **/data
+
+# Ignore Environment
+**/env
